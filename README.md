@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Techmate](https://techmates.netlify.app/)
 
-- 🌱 I’m currently learning **React.js,Node.js and bootstrap**
+- 🌱 I’m currently learning **langchain, langgraph and agentic ai**
 
 - 👯 I’m looking to collaborate on [Techmates](https://techmates.netlify.app/)
 
